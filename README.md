@@ -16,6 +16,10 @@ xs map-tenant-database -o HANAExpress -s development HXE
 ##
 프로젝트 셋팅에서 Space 를 테넨드 데이터베이스의 공간으로 반드시 지정할 것.
 
+<<<<<<< HEAD
 ## 
 ㅠㅠ
 ..
+=======
+## ㅠㅠ
+>>>>>>> refs/heads/main
