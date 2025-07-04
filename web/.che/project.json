@@ -1,1 +1,16 @@
-{"type":"sap.html5","builders":{"default":"ui5-builder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"generation\":[{\"templateId\":\"hanatemplates.ui5project\",\"templateVersion\":\"1.0.0\",\"dateTimeStamp\":\"Fri, 04 Jul 2025 01:32:04 GMT\"}],\"basevalidator\":{\"services\":{\"js\":\"jsValidator\",\"json\":\"jsonValidator\",\"xml\":\"xmlValidator\"}}}"]},"mixinTypes":["mtamodule"]}
+{
+	"type": "sap.html5",
+	"builders": {
+		"default": "ui5-builder",
+		"configs": {}
+	},
+	"runners": {
+		"configs": {}
+	},
+	"attributes": {
+		"sap.watt.common.setting": [
+			"{\"generation\":[{\"templateId\":\"hanatemplates.ui5project\",\"templateVersion\":\"1.0.0\",\"dateTimeStamp\":\"Fri, 04 Jul 2025 01:32:04 GMT\"}],\"basevalidator\":{\"services\":{\"js\":\"jsValidator\",\"json\":\"jsonValidator\",\"xml\":\"xmlValidator\"}}}"
+		]
+	},
+	"mixinTypes": ["mtamodule"]
+}
