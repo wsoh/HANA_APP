@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"basevalidator\":{\"services\":{\"xml\":\"xmlValidator\"}},\"hdbInactiveFiles\":{\"inactiveFileList\":[]}}"]},"mixinTypes":[]}
+=======
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"basevalidator\":{\"services\":{\"xml\":\"xmlValidator\"}}}"]},"mixinTypes":[]}
+>>>>>>> refs/heads/main
