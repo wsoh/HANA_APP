@@ -1,16 +1,1 @@
-{
-	"type": "mta",
-	"builders": {
-		"default": "mtabuilder",
-		"configs": {}
-	},
-	"runners": {
-		"configs": {}
-	},
-	"attributes": {
-		"sap.watt.common.setting": [
-			"{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/HANA_APP/db/src/data/header.csv\",\"/HANA_APP/db/src/data/item.csv\",\"/HANA_APP/db/src/data/load.hdbtabledata\"]}}"
-		]
-	},
-	"mixinTypes": []
-}
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[]}}"]},"mixinTypes":[]}
