@@ -20,3 +20,13 @@ xs map-tenant-database -o HANAExpress -s development HXE
 Could not provision resources for module - db build 할 때 장애 나면
  - Open HDI Container 메뉴 클릭해서 HDI container 재로딩 될때 까지 기다린 후 다시 빌드하면 되더라
  - 
+
+## xs marketplace   --> sapui5_sb, sapui5_버전 구할 수 있음
+
+
+## 다음 명령어 연습삼아 해보는 습관
+ xs login -s development  <- development space 로 로그인
+ xs a | grep web
+ xs env  ....-web         <- sapui5 항목 찾아 방화벽 열어야.
+ 
+ ##

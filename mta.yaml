@@ -13,6 +13,7 @@ modules:
           url: '~{url}'
           forwardAuthToken: true
         group: destinations
+      - name: ui5
   - name: db
     type: hdb
     path: db
@@ -39,3 +40,8 @@ resources:
     properties:
       hdi-container-name: '${service-name}'
     type: com.sap.xs.hdi-container
+  - name: ui5
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: sapui5_sb
+      service-plan: sapui5-1.108
