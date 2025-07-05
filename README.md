@@ -29,4 +29,14 @@ Could not provision resources for module - db build 할 때 장애 나면
  xs a | grep web
  xs env  ....-web         <- sapui5 항목 찾아 방화벽 열어야.
  
- ##
+## 다음의 순서 제대로 설명안해주는 게 가이드의 문제인 듯
+xsa-cockpit URL 에서
+   space 여러개 만들고
+   tenant enable 시킨후
+   tenane 에 여러개의 space 맵핑시키고
+di-space-enablement-ui URL 에서
+   space enable 해줄것
+   
+# 여기까지 오면 이가이드는 끝.
+   
+ 
