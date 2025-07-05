@@ -25,6 +25,7 @@ modules:
         properties:
           key: ServiceName_1
           service: '~{products-service-name}'
+        group: SERVICE_REPLACEMENTS
   - name: core_xsjs
     type: nodejs
     path: core_xsjs
