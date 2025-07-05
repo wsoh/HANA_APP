@@ -37,6 +37,6 @@ xsa-cockpit URL 에서
 di-space-enablement-ui URL 에서
    space enable 해줄것
    
-# 여기까지 오면 이가이드는 끝.
+# 끝.
    
  
