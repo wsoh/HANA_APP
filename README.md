@@ -1,4 +1,5 @@
-# HANA_APP
+# HANA_APP - main 브랜치 로 가네
+
 # Guide: https://developers.sap.com/tutorials/xsa-connecting-webide.html
 
 ## 준비단계: Tenant DB 를 XSA Enabled 시켜라 => Enabled for XSA : Enabled
